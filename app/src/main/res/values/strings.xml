@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Visit Clarens</string>
+
+    <!-- The title of the feature. -->
+    <string name="basotho_cultural_village">Basotho Cultural Village</string>
+
+    <!-- The title of the feature. -->
+    <string name="golden_gate_park">Golden Gate Highlands National Park</string>
+
+    <!-- The title of the feature. -->
+    <string name="monument">President Kruger Monument</string>
+
+    <!-- The title of the feature. -->
+    <string name="ballooning">Hot Air Ballooning</string>
+
+    <!-- The title of the feature. -->
+    <string name="rafting">White River Rafting</string>
+
+    <!-- The title of the feature. -->
+    <string name="hiking">Hiking</string>
+
+    <!-- The title of the feature. -->
+    <string name="country_market">Clarens Country Market</string>
+
+    <!-- The title of the feature. -->
+    <string name="amohela_classic">Amohela Classic</string>
+
+    <!-- The title of the feature. -->
+    <string name="roter_hahn">Roter Hahn</string>
+
+    <!-- The title of the feature. -->
+    <string name="artist_cafe">The Artist\'s Cafe</string>
+
+    <!-- The title of the feature. -->
+    <string name="art_galleries">Art Galleries</string>
+
+    <!-- The description of the feature. -->
+    <string name="village_description">Be transported back in time when you visit the Basotho
+        Cultural Village Rest Camp, which mirrors an 18th century Basotho village.</string>
+
+    <!-- The description of the feature. -->
+    <string name="golden_gate_description">The park\'s most notable features are its golden, ochre,
+        and orange-hued, deeply eroded sandstone cliffs and outcrops, especially the Brandwag rock.</string>
+
+    <!-- The description of the feature. -->
+    <string name="monument_description">A monument in the central town square in Clarens erected in
+        honour of President Paul Kruger in 1865, where it stands to this day.</string>
+
+    <!-- The description of the feature. -->
+    <string name="ballooning_description">Experience the beauty of the Eastern Free State from
+        above with a smaller, more intimate hot air balloon.</string>
+
+    <!-- The description of the feature. -->
+    <string name="rafting_description">The Ash river just outside Clarens provides year round
+        rafting with 9 rapids, scenic vegetation and outstanding birdlife.</string>
+
+    <!-- The description of the feature. -->
+    <string name="hiking_description">Set on a landscape which is mountainous with many hills in
+        the area, Clarens offers a variety of hiking trails.</string>
+
+    <!-- The description of the feature. -->
+    <string name="market_description">Locals gather to share their crafts, harvest and news of the
+        town.</string>
+
+    <!-- The description of the feature. -->
+    <string name="amohela_description">Choose from a selection of trails that suit your mountain
+        biking preferences.</string>
+
+    <!-- The description of the feature. -->
+    <string name="roter_hahn_description">Offering German Beer and cuisine.</string>
+
+    <!-- The description of the feature. -->
+    <string name="cafe_description"> quaint cafe nestled in the hub of the Clarens art galleries.</string>
+
+    <!-- The description of the feature. -->
+    <string name="galleries_description">Art and craft galleries you can enjoy in Clarens include: 
+        the Art and Wine Gallery, Addy and Hoyle Art Gallery, Al Tiley and Neil Moss Gallery, 
+        Blou Donki (Blue Donkey), and many more.</string>
+
+    <!-- The heading of the attractions category. -->
+    <string name="attractions">See</string>
+
+    <!-- The heading of the activities category. -->
+    <string name="activities">Do</string>
+
+    <!-- The heading of the restaurants category. -->
+    <string name="restaurants">Eat</string>
+
+    <!-- The heading of the events category. -->
+    <string name="events">Events</string>
+
+</resources>

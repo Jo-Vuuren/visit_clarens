@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The height of each list item. -->
+    <dimen name="list_item_height">150dp</dimen>
+
+    <!-- The margins for the textViews -->
+    <dimen name="layout_margin">16dp</dimen>
+
+    <!-- The top margin for the title textView. -->
+    <dimen name="title_top_margin">8dp</dimen>
+</resources>
